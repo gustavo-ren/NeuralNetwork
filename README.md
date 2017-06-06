@@ -1,1 +1,1 @@
-Python Machine Learning Sebastian Raschka
+Python Machine Learning Sebastian Raschka (Inacabado)
